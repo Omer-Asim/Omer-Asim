@@ -1,7 +1,5 @@
-### Hi there 👋
-### Hi there, I'm Ömer Asım [omerleyazilim][website] 👋 
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://omerleyazilim.com)
+### Hi there, I'm Ömer Asım - aka [codeSTACKr][website] 👋 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)]("https://www.instagram.com/omerasim_/") 
@@ -10,7 +8,7 @@
 
 
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=Omer-Asim&show_icons=true&theme=gradient) 
+
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=Omer-Asim&show_icons=true&theme=radical)
 
 
@@ -41,5 +39,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[website]: https://profile.omerleyazilim.com
