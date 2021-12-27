@@ -6,6 +6,25 @@ selamlar
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](link) 
 [![Blogger Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](link)
 
+
+
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=Omer-Asim&show_icons=true&theme=gradient) 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=Omer-Asim&show_icons=true&theme=radical)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 **Omer-Asim/Omer-Asim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
