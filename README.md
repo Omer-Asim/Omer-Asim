@@ -11,7 +11,7 @@
  ## 📌 GitHub Stats And Top Languages
 
 <p float="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=Omer-Asim&show_icons=true&count_private=true&hide=contribs,issues" alt="Omer-Asim's github stats" />
+ 
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omer-Asim&layout=compact&hide=html,css" alt="My Top Langs" />
 </p>
 
