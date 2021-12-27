@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Hi there, I'm Ömer Asım [omerleyazilimc][website] 👋 
+### Hi there, I'm Ömer Asım [omerleyazilim][website] 👋 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)]("https://www.instagram.com/omerasim_/") 
